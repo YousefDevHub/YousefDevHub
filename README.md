@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @YousefDevHub
 - 👀 I'm interested in mobile app development, particularly for Android and iOS platforms.
-- 🌱 I'm currently learning new frameworks and technologies to improve my mobile development skills, such as React Native, Flutter, and Kotlin.
+- 🌱 I'm currently learning new frameworks and technologies to improve my mobile development skills, such as Flutter, and Kotlin.
 - 💞️ I'm looking to collaborate on open-source mobile projects or join a team of talented mobile developers to work on exciting new apps.
 - 📫 You can reach me on GitHub at @YousefDevHub or by email at yousef.devhub@example.com.
 - 😄 Pronouns: he/him
