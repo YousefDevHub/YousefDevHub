@@ -1,6 +1,5 @@
 ![image](https://github.com/YousefDevHub/YousefDevHub/assets/163793414/2d21b38b-7bb3-4413-9606-30c133ec26e9)<h1 align="center">Hi 👋, I'm Yousef Ahmed</h1>
 <h3 align="center">An enthusiastic data scientist from Egypt</h3>
-<img src="https://komarev.com/ghpvc/?username=yousefdevhub&label=Profile%20views&color=0e75b6&style=flat" alt="yousefdevhub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
